@@ -49,11 +49,11 @@ Projects are contracted through **AnsatzAlgo Technologies Pvt. Ltd.**, a registe
 **Data & AI**<br/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwIDIuNSAxMS45IDguMSAxNy41IDEwIDExLjkgMTEuOSAxMCAxNy41IDguMSAxMS45IDIuNSAxMCA4LjEgOC4xWiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOC41IDEzLjUgMTkuNCAxNi4xIDIyIDE3IDE5LjQgMTcuOSAxOC41IDIwLjUgMTcuNiAxNy45IDE1IDE3IDE3LjYgMTYuMVoiLz48L3N2Zz4K&logoColor=white"/>
 <img src="https://img.shields.io/badge/Geospatial%20data-2E7D32?style=flat-square&logo=openstreetmap&logoColor=white"/>
 
 **Cloud & tools**<br/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYuNSAxOUE0LjUgNC41IDAgMCAxIDUuNiAxMC4xIDYuNSA2LjUgMCAwIDEgMTguMSA4LjYgNS4yIDUuMiAwIDAgMSAxNy41IDE5SDYuNVoiLz48L3N2Zz4K&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
