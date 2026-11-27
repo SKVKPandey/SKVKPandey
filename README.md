@@ -24,6 +24,17 @@
 | **[T&A Global Group](https://www.taglobalgroup.com/)**<br/><sub>Client · consultancy</sub> | Got an unindexed homepage onto Google: 99.9K search impressions and 9,648 organic sessions in 16 months. | WordPress · technical SEO · GA4 |
 | **[ESO](https://weareso.in/)**<br/><sub>Client · D2C brand</sub> | Custom Shopify storefront in Liquid with bundles, delivery logic and brand pages. | Shopify · Liquid |
 
+### 🧪 Open code
+
+| Repo | What it is |
+| --- | --- |
+| **[nse-stock-dashboard](https://github.com/SKVKPandey/nse-stock-dashboard)** | Streamlit dashboard for Indian stocks: index tiles, top gainers and losers, candlestick charts and a 30-day LSTM forecast that shows its own test error. |
+| **[market-scripts](https://github.com/SKVKPandey/market-scripts)** | Market tools from 2023 to 2024: a stock news scraper, candlestick charts, and Fyers options and Google Sheets scripts. |
+| **[evolutionary-algorithms](https://github.com/SKVKPandey/evolutionary-algorithms)** | A genetic algorithm and ant colony optimisation for the travelling salesman problem, written from scratch. |
+| **[content-planner](https://github.com/SKVKPandey/content-planner)** | Flask app for planning social media posts on a calendar, with reminders when a post is due. |
+| **[worldlabs-app](https://github.com/SKVKPandey/worldlabs-app)** | Flask app that generates World Labs Marble worlds from text, a 360° panorama or images, viewed in the browser. |
+| **[sandbox-2021-2024](https://github.com/SKVKPandey/sandbox-2021-2024)** | About 30 small programs from my first years of coding. |
+
 ### 🤝 Working with me
 
 Projects are contracted through **AnsatzAlgo Technologies Pvt. Ltd.**, a registered Indian company: fixed-scope quotes, an NDA before work starts, W-8BEN-E on file for US clients, and you own the code and every account. Working hours overlap US mornings. Start at **[anzato.com](https://anzato.com)**.
